@@ -280,7 +280,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 836ae9a35b6a2a949a0bb1c5e2039ba1, type: 3}
-  m_Color: {r: 0.3443396, g: 0.7804829, b: 1, a: 0.24705882}
+  m_Color: {r: 1, g: 0.50849116, b: 0.34509802, a: 0.24705882}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -318,7 +318,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.7216981, g: 0.9178347, b: 1, a: 1}
+  m_Color: {r: 0.94420516, g: 0.72156864, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
